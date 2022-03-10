@@ -10,7 +10,7 @@
 <div align="center"><br>
   <img align="center" alt="Deletking-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Deletking-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Deletking-Js" height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+  <img align="center" alt="Deletking-Js" height="65" width="65" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img align="center" alt="Deletking-Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Deletking-Sass" height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/>
   <img align="center" alt="Deletking-Angular" height="50" width="50" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
